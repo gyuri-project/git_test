@@ -29,4 +29,4 @@
 ---
 1. 일반 링크 <https://github.com/>
 2. 또는 이름 작성 후 링크 [이름작성](https://github.com/)
-3. 또는 이름 작성 후 링크에 부연설명 [이름작성](https://github.com/, 깃허브)
+3. 또는 이름 작성 후 링크에 부연설명 [이름작성](https://github.com/, "깃허브")
